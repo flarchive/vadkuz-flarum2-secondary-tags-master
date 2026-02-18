@@ -1,0 +1,7 @@
+vadkuz-flarum2-secondary-tags-master:
+  admin:
+    edit_tag:
+      allowed_primary_label: Allowed primary tags
+      allowed_primary_help: "If none are selected, this secondary tag is global (can be used with any primary tag)."
+      secondary_listed_label: Show in tag lists and allow linking
+      secondary_listed_help: "If disabled, this secondary tag will be hidden from /tags and the sidebar, and it will not be a clickable link where it appears."
