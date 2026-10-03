@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of vadkuz/flarum2-secondary-tags-master.** Not for installation: use [Packagist](https://packagist.org/packages/vadkuz/flarum2-secondary-tags-master) or the [upstream repository](https://github.com/vadkuz/flarum2-secondary-tags-master).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^2.0.0-beta.6`
+**5** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^2.0.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-02-18 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.0) |
+| `v0.1.1` | 2026-02-18 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.1) |
+| `v0.1.2` | 2026-02-18 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.2) |
+| `v0.1.3` | 2026-02-18 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.3) |
+| `v0.1.4` | 2026-02-19 | `^2.0.0-beta.6` | [Browse](https://github.com/flarchive/vadkuz-flarum2-secondary-tags-master/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/vadkuz-flarum2-secondary-tags-master.json](https://github.com/flarchive/archive-index/blob/main/packages/vadkuz-flarum2-secondary-tags-master.json)
 
